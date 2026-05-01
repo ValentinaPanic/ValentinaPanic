@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Valentina 👋
 
-<!--
-**ValentinaPanic/ValentinaPanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend engineer at StackHawk. React, TypeScript, design systems.
 
-Here are some ideas to get you started:
+Currently building [PrepCode](https://prep-code.vercel.app) — an interview prep app powered by the Anthropic API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- 🛠️ Frontend modernization (Semantic UI → Tailwind, Redux → Nanostores)
+- 🎨 Design systems and component architecture
+- 🤖 AI-assisted development workflows (Cursor, Claude)
+
+## Links
+
+- 🌐 [Portfolio](https://valentina-panic.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/valentinapanic/)
+- 🚀 [PrepCode](https://prep-code.vercel.app)
