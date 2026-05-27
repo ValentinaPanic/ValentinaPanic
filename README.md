@@ -12,6 +12,6 @@ Currently building [PrepCode](https://prep-code.vercel.app) — an interview pre
 
 ## Links
 
-- 🌐 [Portfolio](https://valentina-panic.vercel.app)
+- 🌐 [Portfolio](https://valentinapanic.dev/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/valentinapanic/)
 - 🚀 [PrepCode](https://prep-code.vercel.app)
