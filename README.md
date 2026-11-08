@@ -2,19 +2,23 @@
 
 Frontend engineer with 5 years of production React and TypeScript experience in cybersecurity SaaS. Strong in component architecture, design systems, and daily AI-assisted development.
 
-**Currently open to new opportunities** — looking for senior frontend roles at SaaS or developer tools companies, remote-first.
+Open to frontend and frontend-leaning full-stack roles. Remote, or hybrid in the Denver area.
 
-Currently building [PrepCode](https://prep-code.vercel.app) — an interview prep app powered by the Anthropic API.
+## What I've worked on
 
-## What I do
+- 🛠️ Frontend modernization: main contributor on Semantic UI → Tailwind, plus Redux → Nanostores and the React 19 upgrade
+- 🎨 Design systems: 20+ components built and documented in Storybook
+- 📈 Product ownership: led a dashboard redesign that took weekly visit rate from ~10% to ~32%
+- 🤖 AI-assisted development with Claude Code (Cursor before that), including custom rules my engineering team adopted
 
-- 🛠️ Frontend modernization at scale (Semantic UI → Tailwind, Redux → Nanostores, React 18 → 19)
-- 🎨 Design systems and component libraries (20+ components built, Storybook documented)
-- 📈 Product ownership — led a redesign that 3x'd weekly engagement on a key user surface
-- 🤖 Daily AI-assisted development workflow with Cursor and Claude, including custom rules adopted by my engineering team
+## Side projects
+
+- 📦 **[Crestline UI](https://github.com/ValentinaPanic/crestline)**: React component library published to npm as [@crestline/ui](https://www.npmjs.com/package/@crestline/ui). Design tokens, CSS Modules, dual ESM/CJS builds, and a GitHub Actions release pipeline. [Storybook](https://crestline-storybook.vercel.app)
+- 🚀 **[PrepCode](https://github.com/ValentinaPanic/PrepCode)**: full-stack interview prep app. React/TypeScript frontend, Node.js/Express API, Supabase (Postgres), and Claude responses streamed over SSE. [Live](https://prep-code.vercel.app)
+
+Currently working through a Node.js course to go deeper on the backend side.
 
 ## 🔗 Links
 
-- 🌐 [Portfolio](https://valentinapanic.dev)
+- 🌐 [Portfolio](https://valentinapanic.dev/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/valentinapanic/)
-- 🚀 [PrepCode](https://prep-code.vercel.app)
